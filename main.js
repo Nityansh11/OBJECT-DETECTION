@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-    image(img, 0, 640, 420);
+    image(img,0, 0, 640, 420);
     fill("#FF0000");
     text("Trophy", 45, 75);
     noFill();
